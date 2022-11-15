@@ -1,0 +1,1978 @@
+{
+  "data": [
+    {
+      "oem": "CFM",
+      "name": "CFM International",
+      "models": [
+        {
+          "model": "LEAP",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-1A23",
+              "thrust": "24k"
+            },
+            {
+              "type": "-1A24",
+              "thrust": "24k"
+            },
+            {
+              "type": "-1A26",
+              "thrust": "27.1k"
+            },
+            {
+              "type": "-1A30",
+              "thrust": "32.2k"
+            },
+            {
+              "type": "-1A32",
+              "thrust": "32.2k"
+            },
+            {
+              "type": "-1A33",
+              "thrust": "32.2k"
+            },
+            {
+              "type": "-1A35A",
+              "thrust": "32.2k"
+            },
+            {
+              "type": "-1B25",
+              "thrust": "26.8k"
+            },
+            {
+              "type": "-1B27",
+              "thrust": "28k"
+            },
+            {
+              "type": "-1B28",
+              "thrust": "29.3k"
+            },
+            {
+              "type": "-1C28",
+              "thrust": "29.2k"
+            },
+            {
+              "type": "-1C30",
+              "thrust": "30.8k"
+            }
+          ]
+        },
+        {
+          "model": "CFM56",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-3",
+              "thrust": "20.1k"
+            },
+            {
+              "type": "-3B",
+              "thrust": "22.1k"
+            },
+            {
+              "type": "-3C",
+              "thrust": "23.5k"
+            },
+            {
+              "type": "-5A",
+              "thrust": "25k"
+            },
+            {
+              "type": "-5-A1/F ",
+              "thrust": "25k"
+            },
+            {
+              "type": "-5A3",
+              "thrust": "26.5k"
+            },
+            {
+              "type": "-5A4",
+              "thrust": "22k"
+            },
+            {
+              "type": "-5A4/F",
+              "thrust": "22k"
+            },
+            {
+              "type": "-5A5",
+              "thrust": "23.5k"
+            },
+            {
+              "type": "-5A5/F",
+              "thrust": "23.5k"
+            },
+            {
+              "type": "-5B1",
+              "thrust": "30k"
+            },
+            {
+              "type": "-5B2",
+              "thrust": "31k"
+            },
+            {
+              "type": "-5B3",
+              "thrust": "33k"
+            },
+            {
+              "type": "-5B4",
+              "thrust": "27k"
+            },
+            {
+              "type": "-5B5",
+              "thrust": "22k"
+            },
+            {
+              "type": "-5B6",
+              "thrust": "23.5k"
+            },
+            {
+              "type": "-5B7",
+              "thrust": "27k"
+            },
+            {
+              "type": "-5B8",
+              "thrust": "21.6k"
+            },
+            {
+              "type": "-5B9",
+              "thrust": "23.3k"
+            },
+            {
+              "type": "-7B18",
+              "thrust": "18k"
+            },
+            {
+              "type": "-7B20",
+              "thrust": "20k"
+            },
+            {
+              "type": "-7B22",
+              "thrust": "22k"
+            },
+            {
+              "type": "-7B24",
+              "thrust": "24k"
+            },
+            {
+              "type": "-7B26",
+              "thrust": "26k"
+            },
+            {
+              "type": "-7B27",
+              "thrust": "27k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "GE",
+      "name": "General Electric",
+      "models": [
+        {
+          "model": "CF6",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-6D",
+              "thrust": "39.3k"
+            },
+            {
+              "type": "-6D1",
+              "thrust": "40.3k"
+            },
+            {
+              "type": "-6D1A",
+              "thrust": "40.9k"
+            },
+            {
+              "type": "-6DK",
+              "thrust": "39.3k"
+            },
+            {
+              "type": "-6DK2",
+              "thrust": "40.9k"
+            },
+            {
+              "type": "-50A",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50C",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50CA",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50C1",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50C2",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50C2D",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50E",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50E1",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50E2",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-50E2B",
+              "thrust": "46.3k"
+            },
+            {
+              "type": "-45A",
+              "thrust": "43.3k"
+            },
+            {
+              "type": "-45A2",
+              "thrust": "43.3k"
+            },
+            {
+              "type": "-80A",
+              "thrust": "47k"
+            },
+            {
+              "type": "-80A1",
+              "thrust": "47k"
+            },
+            {
+              "type": "-80A2",
+              "thrust": "49k"
+            },
+            {
+              "type": "-80A3",
+              "thrust": "49k"
+            },
+            {
+              "type": "-80C2A1",
+              "thrust": "58k"
+            },
+            {
+              "type": "-80C2A2",
+              "thrust": "52k"
+            },
+            {
+              "type": "-80C2A3",
+              "thrust": "59k"
+            },
+            {
+              "type": "-80C2A5",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2A8",
+              "thrust": "58k"
+            },
+            {
+              "type": "-80C2B1",
+              "thrust": "56k"
+            },
+            {
+              "type": "-80C2B1F",
+              "thrust": "57k"
+            },
+            {
+              "type": "-80C2B2",
+              "thrust": "52k"
+            },
+            {
+              "type": "-80C2B2F",
+              "thrust": "52k"
+            },
+            {
+              "type": "-80C2B4",
+              "thrust": "57k"
+            },
+            {
+              "type": "-80C2B4F",
+              "thrust": "57k"
+            },
+            {
+              "type": "-80C2B5F",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2B6",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2B6F",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2B7F",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2B8F",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80C2D1F",
+              "thrust": "60k"
+            },
+            {
+              "type": "-80E1A1",
+              "thrust": "63.3k"
+            },
+            {
+              "type": "-80E1A2",
+              "thrust": "64.5k"
+            },
+            {
+              "type": "-80E1A3",
+              "thrust": "68.5k"
+            },
+            {
+              "type": "-80E1A4",
+              "thrust": "66.9k"
+            },
+            {
+              "type": "-80E1A4/B",
+              "thrust": "68.5k"
+            }
+          ]
+        },
+        {
+          "model": "Passport20",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-17BB1A",
+              "thrust": "17.7K"
+            },
+            {
+              "type": "-18BB1A",
+              "thrust": "18.4K"
+            },
+            {
+              "type": "-19BB1A",
+              "thrust": "18.9K"
+            }
+          ]
+        },
+        {
+          "model": "CF34",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-10E5",
+              "thrust": "18.82K"
+            },
+            {
+              "type": "-10E5A1",
+              "thrust": "18.82K"
+            },
+            {
+              "type": "-10E6",
+              "thrust": "18.82K"
+            },
+            {
+              "type": "-10E6A1",
+              "thrust": "18.82K"
+            },
+            {
+              "type": "-10E7",
+              "thrust": "20.36K"
+            },
+            {
+              "type": "-10E7B",
+              "thrust": "20.36K"
+            },
+            {
+              "type": "-3",
+              "thrust": "9.22K"
+            },
+            {
+              "type": "-3A",
+              "thrust": "9.22K"
+            },
+            {
+              "type": "-3B",
+              "thrust": "9.22K"
+            },
+            {
+              "type": "-3B1",
+              "thrust": "9.22K"
+            },
+            {
+              "type": "-8C5",
+              "thrust": "14.5K"
+            },
+            {
+              "type": "-8E5",
+              "thrust": "14.5K"
+            },
+            {
+              "type": "-8E5A1",
+              "thrust": "14.5K"
+            }
+          ]
+        },
+        {
+          "model": "GE90",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-76B",
+              "thrust": "75.3k"
+            },
+            {
+              "type": "-77B",
+              "thrust": "75.3k"
+            },
+            {
+              "type": "-85B",
+              "thrust": "81.2k"
+            },
+            {
+              "type": "-90B",
+              "thrust": "90k"
+            },
+            {
+              "type": "-94B",
+              "thrust": "90k"
+            },
+            {
+              "type": "-110B1",
+              "thrust": "110k"
+            },
+            {
+              "type": "-113B",
+              "thrust": "110k"
+            },
+            {
+              "type": "-115B",
+              "thrust": "110k"
+            }
+          ]
+        },
+        {
+          "model": "GEnx",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-1B54",
+              "thrust": "57.4k"
+            },
+            {
+              "type": "-1B54/P1",
+              "thrust": "57.4k"
+            },
+            {
+              "type": "-1B54/P2",
+              "thrust": "57.4k"
+            },
+            {
+              "type": "-1B58",
+              "thrust": "61k"
+            },
+            {
+              "type": "-1B58/P1",
+              "thrust": "61k"
+            },
+            {
+              "type": "-1B58/P2",
+              "thrust": "61k"
+            },
+            {
+              "type": "-1B64",
+              "thrust": "67k"
+            },
+            {
+              "type": "-1B64/P1",
+              "thrust": "67k"
+            },
+            {
+              "type": "-1B64/P2",
+              "thrust": "67k"
+            },
+            {
+              "type": "-1B67",
+              "thrust": "69.4k"
+            },
+            {
+              "type": "-1B67/P1",
+              "thrust": "69.4k"
+            },
+            {
+              "type": "-1B67/P2",
+              "thrust": "69.4k"
+            },
+            {
+              "type": "-1B70",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/P1",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/P2",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/72/P1",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/72/P2",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/75/P1",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B70/75/P2",
+              "thrust": "72.3k"
+            },
+            {
+              "type": "-1B74/75/P1",
+              "thrust": "76.7k"
+            },
+            {
+              "type": "-1B74/75/P2",
+              "thrust": "76.7k"
+            },
+            {
+              "type": "-1B75/P1",
+              "thrust": "77.6k"
+            },
+            {
+              "type": "-1B75/P2",
+              "thrust": "77.6k"
+            },
+            {
+              "type": "-1B76/P2",
+              "thrust": "78.5k"
+            },
+            {
+              "type": "-1B76A/P2",
+              "thrust": "78.5k"
+            },
+            {
+              "type": "-1B78/P2",
+              "thrust": "80.4k"
+            },
+            {
+              "type": "-2B67",
+              "thrust": "67.4k"
+            },
+            {
+              "type": "-2B67B",
+              "thrust": "67.4k"
+            },
+            {
+              "type": "-2B67/P",
+              "thrust": "67.4k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "EA",
+      "name": "Engine Alliance",
+      "models": [
+        {
+          "model": "GP7200",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-7270",
+              "thrust": "74.7k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "GE-H",
+      "name": "General Electric & Honda",
+      "models": [
+        {
+          "model": "HF120",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "HF120",
+              "thrust": "2k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "IAE",
+      "name": "International Aero Engines",
+      "models": [
+        {
+          "model": "V2500",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "V2522-A5",
+              "thrust": "23k"
+            },
+            {
+              "type": "V2524-A5",
+              "thrust": "23k"
+            },
+            {
+              "type": "V2525-D5",
+              "thrust": "25k"
+            },
+            {
+              "type": "V2527-A5",
+              "thrust": "24.5k"
+            },
+            {
+              "type": "V2527E-A5",
+              "thrust": "24.8k"
+            },
+            {
+              "type": "V2527M-A5",
+              "thrust": "29.9k"
+            },
+            {
+              "type": "V2528-D5",
+              "thrust": "28k"
+            },
+            {
+              "type": "V2530-A5",
+              "thrust": "31.6k"
+            },
+            {
+              "type": "V2531-E5",
+              "thrust": "31.3k"
+            },
+            {
+              "type": "V2533-A5",
+              "thrust": "31.6k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "HW",
+      "name": "Honeywell Aerospace",
+      "models": [
+        {
+          "model": "АS907",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-1-1A",
+              "thrust": "6.9k"
+            },
+            {
+              "type": "-2-1A",
+              "thrust": "7.5k"
+            },
+            {
+              "type": "-2-1G",
+              "thrust": "7.7k"
+            },
+            {
+              "type": "-3-1E",
+              "thrust": "7.6k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "P&WC",
+      "name": "Pratt & Whitney Canada",
+      "models": [
+        {
+          "model": "PT6A",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PT6A-68",
+              "thrust": "932 kW"
+            },
+            {
+              "type": "PT6A-68B",
+              "thrust": "1194 kW"
+            },
+            {
+              "type": "PT6A-68C",
+              "thrust": "1194 kW"
+            },
+            {
+              "type": "PT6A-68D",
+              "thrust": "1194 kW"
+            },
+            {
+              "type": "PT6A-68T",
+              "thrust": "1194 kW"
+            }
+          ]
+        },
+        {
+          "model": "PW100",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW118",
+              "thrust": "1342 kW"
+            },
+            {
+              "type": "PW118A",
+              "thrust": "1342 kW"
+            },
+            {
+              "type": "PW119B",
+              "thrust": "1625 kW"
+            },
+            {
+              "type": "PW119C",
+              "thrust": "1625 kW"
+            },
+            {
+              "type": "PW120",
+              "thrust": "1491 kW"
+            },
+            {
+              "type": "PW120A",
+              "thrust": "1491 kW"
+            },
+            {
+              "type": "PW121",
+              "thrust": "1603 kW"
+            },
+            {
+              "type": "PW121A",
+              "thrust": "1640 kW"
+            },
+            {
+              "type": "PW123",
+              "thrust": "1775 kW"
+            },
+            {
+              "type": "PW123AF",
+              "thrust": "1775 kW"
+            },
+            {
+              "type": "PW123B",
+              "thrust": "1865 kW"
+            },
+            {
+              "type": "PW123C",
+              "thrust": "1604 kW"
+            },
+            {
+              "type": "PW123D",
+              "thrust": "1604 kW"
+            },
+            {
+              "type": "PW123E",
+              "thrust": "1775 kW"
+            },
+            {
+              "type": "PW124B",
+              "thrust": "1790 kW"
+            },
+            {
+              "type": "PW125B",
+              "thrust": "1864 kW"
+            },
+            {
+              "type": "PW126",
+              "thrust": "1648 kW"
+            },
+            {
+              "type": "PW126A",
+              "thrust": "1985 kW"
+            },
+            {
+              "type": "PW127",
+              "thrust": "2051 kW"
+            },
+            {
+              "type": "PW127B",
+              "thrust": "2051 kW"
+            },
+            {
+              "type": "PW127D",
+              "thrust": "2051 kW"
+            },
+            {
+              "type": "PW127E",
+              "thrust": "1790 kW"
+            },
+            {
+              "type": "PW127F",
+              "thrust": "2051 kW"
+            },
+            {
+              "type": "PW127G",
+              "thrust": "2178 kW"
+            },
+            {
+              "type": "PW127M",
+              "thrust": "2051 kW"
+            },
+            {
+              "type": "PW127N",
+              "thrust": "2051 kW"
+            }
+          ]
+        },
+        {
+          "model": "PW150",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW150A",
+              "thrust": "3781 kW"
+            }
+          ]
+        },
+        {
+          "model": "PW300",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW305A",
+              "thrust": "4.7k"
+            },
+            {
+              "type": "PW305B",
+              "thrust": "5.3k"
+            },
+            {
+              "type": "PW306A",
+              "thrust": "6k"
+            },
+            {
+              "type": "PW306B",
+              "thrust": "6k"
+            },
+            {
+              "type": "PW306C",
+              "thrust": "5.77k"
+            },
+            {
+              "type": "PW306D/D1",
+              "thrust": "5.9k"
+            },
+            {
+              "type": "PW307A",
+              "thrust": "6.4k"
+            },
+            {
+              "type": "PW307D",
+              "thrust": "6.7k"
+            },
+            {
+              "type": "PW308A",
+              "thrust": "6.9k"
+            },
+            {
+              "type": "PW308C",
+              "thrust": "7k"
+            }
+          ]
+        },
+        {
+          "model": "PW500",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW530A",
+              "thrust": "2.9k"
+            },
+            {
+              "type": "PW535A",
+              "thrust": "3.4k"
+            },
+            {
+              "type": "PW535B",
+              "thrust": "3.4k"
+            },
+            {
+              "type": "PW535E",
+              "thrust": "3.35k"
+            },
+            {
+              "type": "PW535E1",
+              "thrust": "3.5k"
+            }
+          ]
+        },
+        {
+          "model": "PW600",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW610F-A",
+              "thrust": "0.9k"
+            },
+            {
+              "type": "PW615F-A",
+              "thrust": "1.46k"
+            },
+            {
+              "type": "PW617F-E",
+              "thrust": "1.8k"
+            },
+            {
+              "type": "PW617F1-E",
+              "thrust": "1.9k"
+            }
+          ]
+        },
+        {
+          "model": "PW800",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW814GA",
+              "thrust": "15.4k"
+            },
+            {
+              "type": "PW815GA",
+              "thrust": "16k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "P&W",
+      "name": "Pratt & Whitney",
+      "models": [
+        {
+          "model": "PW1100G",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW1133G-JM",
+              "thrust": "33.1k"
+            },
+            {
+              "type": "PW1133GA-JM",
+              "thrust": "33.1k"
+            },
+            {
+              "type": "PW1130G-JM",
+              "thrust": "33.1k"
+            },
+            {
+              "type": "PW1127G-JM",
+              "thrust": "27k"
+            },
+            {
+              "type": "PW1127GA-JM",
+              "thrust": "27k"
+            },
+            {
+              "type": "PW1127G1-JM",
+              "thrust": "27k"
+            },
+            {
+              "type": "PW1124G-JM",
+              "thrust": "24.2k"
+            },
+            {
+              "type": "PW1124G1-JM",
+              "thrust": "24.2k"
+            },
+            {
+              "type": "PW1122G-JM",
+              "thrust": "24.2k"
+            },
+            {
+              "type": "PW1431G-JM",
+              "thrust": "31.6k"
+            },
+            {
+              "type": "PW1129G-JM",
+              "thrust": "29.2k"
+            },
+            {
+              "type": "PW1431GA-JM",
+              "thrust": "31.6k"
+            },
+            {
+              "type": "PW1431GH-JM",
+              "thrust": "31.6k"
+            },
+            {
+              "type": "PW1428G-JM",
+              "thrust": "29.8k"
+            },
+            {
+              "type": "PW1428GA-JM",
+              "thrust": "29.8k"
+            },
+            {
+              "type": "PW1428GH-JM",
+              "thrust": "29.8k"
+            }
+          ]
+        },
+        {
+          "model": "PW2000",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW2037",
+              "thrust": "37k"
+            },
+            {
+              "type": "PW2037M",
+              "thrust": "37k"
+            },
+            {
+              "type": "PW2037D",
+              "thrust": "37k"
+            },
+            {
+              "type": "PW2040",
+              "thrust": "40k"
+            },
+            {
+              "type": "PW2040D",
+              "thrust": "40k"
+            },
+            {
+              "type": "PW2043",
+              "thrust": "43k"
+            },
+            {
+              "type": "PW2143",
+              "thrust": "43k"
+            },
+            {
+              "type": "PW2643",
+              "thrust": "43k"
+            }
+          ]
+        },
+        {
+          "model": "PW4000-94",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW4050",
+              "thrust": "50k"
+            },
+            {
+              "type": "PW4052",
+              "thrust": "52.2k"
+            },
+            {
+              "type": "PW4056",
+              "thrust": "56.7k"
+            },
+            {
+              "type": "PW4060A",
+              "thrust": "61.6k"
+            },
+            {
+              "type": "PW4060C",
+              "thrust": "60k"
+            },
+            {
+              "type": "PW4062",
+              "thrust": "62k"
+            },
+            {
+              "type": "PW4062A",
+              "thrust": "62k"
+            },
+            {
+              "type": "PW4152",
+              "thrust": "52k"
+            },
+            {
+              "type": "PW4156",
+              "thrust": "56k"
+            },
+            {
+              "type": "PW4156A",
+              "thrust": "56k"
+            },
+            {
+              "type": "PW4158",
+              "thrust": "58k"
+            },
+            {
+              "type": "PW4160",
+              "thrust": "60k"
+            },
+            {
+              "type": "PW4460",
+              "thrust": "60k"
+            },
+            {
+              "type": "PW4462",
+              "thrust": "62k"
+            }
+          ]
+        },
+        {
+          "model": "PW4000-100",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW4164",
+              "thrust": "64.5k"
+            },
+            {
+              "type": "PW4164C",
+              "thrust": "64.5k"
+            },
+            {
+              "type": "PW4164C/B",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4164-1D",
+              "thrust": "64.5k"
+            },
+            {
+              "type": "PW4164C-1D",
+              "thrust": "64.5k"
+            },
+            {
+              "type": "PW4164C/B-1D",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4168",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4168-1D",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4168A",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4168A-1D",
+              "thrust": "68.6k"
+            },
+            {
+              "type": "PW4170",
+              "thrust": "70k"
+            }
+          ]
+        },
+        {
+          "model": "PW4000-112",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "PW4074",
+              "thrust": "74k"
+            },
+            {
+              "type": "PW4077",
+              "thrust": "77k"
+            },
+            {
+              "type": "PW4084",
+              "thrust": "84k"
+            },
+            {
+              "type": "PW4090",
+              "thrust": "90k"
+            },
+            {
+              "type": "PW4098",
+              "thrust": "98k"
+            }
+          ]
+        },
+        {
+          "model": "JT9D",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-3A",
+              "thrust": "9.8k"
+            },
+            {
+              "type": "-7/7H",
+              "thrust": "10.2k"
+            },
+            {
+              "type": "-7A/7AH",
+              "thrust": "10.4k"
+            },
+            {
+              "type": "-7F",
+              "thrust": "10.5k"
+            },
+            {
+              "type": "-7J",
+              "thrust": "10.2k"
+            },
+            {
+              "type": "-20",
+              "thrust": "10k"
+            },
+            {
+              "type": "-20J",
+              "thrust": "10.8k"
+            },
+            {
+              "type": "-59A",
+              "thrust": "11.6k"
+            },
+            {
+              "type": "-70A",
+              "thrust": "11.5k"
+            },
+            {
+              "type": "-7Q",
+              "thrust": "11.7k"
+            },
+            {
+              "type": "-7Q3",
+              "thrust": "11.7k"
+            },
+            {
+              "type": "-7R4D",
+              "thrust": "10.8k"
+            },
+            {
+              "type": "-7R4D1",
+              "thrust": "10.8k"
+            },
+            {
+              "type": "-7R4E",
+              "thrust": "11.2k"
+            },
+            {
+              "type": "-7R4E1",
+              "thrust": "11.2k"
+            },
+            {
+              "type": "-7R4G2",
+              "thrust": "12.3k"
+            },
+            {
+              "type": "-7R4H1",
+              "thrust": "12.6k"
+            },
+            {
+              "type": "-7R4E4",
+              "thrust": "11.2k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "RR",
+      "name": "Rolls-Royce",
+      "models": [
+        {
+          "model": "AE2100",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "AE2100A",
+              "thrust": "3096 kW"
+            },
+            {
+              "type": "AE2100D2",
+              "thrust": "3458 kW"
+            },
+            {
+              "type": "AE2100D2A",
+              "thrust": "3458 kW"
+            }
+          ]
+        },
+        {
+          "model": "TrentXWB",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-75",
+              "thrust": "74.2k"
+            },
+            {
+              "type": "-79",
+              "thrust": "78.9k"
+            },
+            {
+              "type": "-79B",
+              "thrust": "78.9k"
+            },
+            {
+              "type": "-84",
+              "thrust": "84.2k"
+            },
+            {
+              "type": "-97",
+              "thrust": "97k"
+            }
+          ]
+        },
+        {
+          "model": "Trent1000",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-A",
+              "thrust": "69.2k"
+            },
+            {
+              "type": "-AE",
+              "thrust": "69.2k"
+            },
+            {
+              "type": "-C",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-CE",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-D",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-E",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-G",
+              "thrust": "72k"
+            },
+            {
+              "type": "-H",
+              "thrust": "63.9k"
+            },
+            {
+              "type": "-J",
+              "thrust": "78.1k"
+            },
+            {
+              "type": "-K",
+              "thrust": "78.1k"
+            },
+            {
+              "type": "-L",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-M",
+              "thrust": "79.7k"
+            },
+            {
+              "type": "-N",
+              "thrust": "79.7k"
+            },
+            {
+              "type": "-H",
+              "thrust": "63.9k"
+            },
+            {
+              "type": "-P",
+              "thrust": "74.5k"
+            },
+            {
+              "type": "-Q",
+              "thrust": "78.1k"
+            },
+            {
+              "type": "-R",
+              "thrust": "81k"
+            }
+          ]
+        },
+        {
+          "model": "Trent7000",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-72",
+              "thrust": "72.8k"
+            },
+            {
+              "type": "-72C",
+              "thrust": "72.8k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 Trent900",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "970-84",
+              "thrust": "75.1k"
+            },
+            {
+              "type": "970B-84",
+              "thrust": "78.3k"
+            },
+            {
+              "type": "972-84",
+              "thrust": "76.7k"
+            },
+            {
+              "type": "972E-84",
+              "thrust": "76.7k"
+            },
+            {
+              "type": "972B-84",
+              "thrust": "80.2k"
+            },
+            {
+              "type": "977-84",
+              "thrust": "80.8k"
+            },
+            {
+              "type": "977B-84",
+              "thrust": "83.8k"
+            },
+            {
+              "type": "980-84",
+              "thrust": "84.1k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 Trent800",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "895-17",
+              "thrust": "92.9k"
+            },
+            {
+              "type": "892-17",
+              "thrust": "91.5k"
+            },
+            {
+              "type": "892B-17",
+              "thrust": "91.5k"
+            },
+            {
+              "type": "884-17",
+              "thrust": "85.4k"
+            },
+            {
+              "type": "884B-17",
+              "thrust": "85.4k"
+            },
+            {
+              "type": "877-17",
+              "thrust": "78.9k"
+            },
+            {
+              "type": "875-17",
+              "thrust": "76.6k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 Trent700",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "768-60",
+              "thrust": "67.5k"
+            },
+            {
+              "type": "772-60",
+              "thrust": "71.1k"
+            },
+            {
+              "type": "772B-60",
+              "thrust": "71.1k"
+            },
+            {
+              "type": "772C-60",
+              "thrust": "71.1k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 Trent500",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "553-61",
+              "thrust": "55.8k"
+            },
+            {
+              "type": "553A2-61",
+              "thrust": "55.8k"
+            },
+            {
+              "type": "556-61",
+              "thrust": "58.5k"
+            },
+            {
+              "type": "556A2-61",
+              "thrust": "58.5k"
+            },
+            {
+              "type": "556B-61",
+              "thrust": "58.5k"
+            },
+            {
+              "type": "556B2-61",
+              "thrust": "58.5k"
+            },
+            {
+              "type": "560-61",
+              "thrust": "61.9k"
+            },
+            {
+              "type": "560A2-61",
+              "thrust": "61.9k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 535",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "535C-37",
+              "thrust": "36.7k"
+            },
+            {
+              "type": "535E4-37",
+              "thrust": "39.6k"
+            },
+            {
+              "type": "535E4-B-37",
+              "thrust": "42.5k"
+            },
+            {
+              "type": "535E4-C-37",
+              "thrust": "42.5k"
+            }
+          ]
+        },
+        {
+          "model": "RB211 524",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-22B",
+              "thrust": "43.7k"
+            },
+            {
+              "type": "524B",
+              "thrust": "50k"
+            },
+            {
+              "type": "524C2",
+              "thrust": "51.5k"
+            },
+            {
+              "type": "524D4",
+              "thrust": "53k"
+            },
+            {
+              "type": "524D4X",
+              "thrust": "54.5k"
+            },
+            {
+              "type": "524G",
+              "thrust": "58k"
+            },
+            {
+              "type": "524H",
+              "thrust": "60.6k"
+            }
+          ]
+        },
+        {
+          "model": "AE3007",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-C",
+              "thrust": "6.4k"
+            },
+            {
+              "type": "-A",
+              "thrust": "7.6k"
+            },
+            {
+              "type": "-A1",
+              "thrust": "7.6k"
+            },
+            {
+              "type": "-A1/1",
+              "thrust": "7.6k"
+            },
+            {
+              "type": "-A1/2",
+              "thrust": "7.6k"
+            },
+            {
+              "type": "-A1/3",
+              "thrust": "7.6k"
+            },
+            {
+              "type": "-A3",
+              "thrust": "7.2k"
+            },
+            {
+              "type": "-A1P",
+              "thrust": "8.4k"
+            },
+            {
+              "type": "-C1",
+              "thrust": "6.7k"
+            },
+            {
+              "type": "-A1E",
+              "thrust": "8.9k"
+            },
+            {
+              "type": "-A2",
+              "thrust": "9.4k"
+            },
+            {
+              "type": "-C2",
+              "thrust": "7k"
+            }
+          ]
+        },
+        {
+          "model": "BR700",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "710A1-10",
+              "thrust": "14.7k"
+            },
+            {
+              "type": "710A2-20",
+              "thrust": "14.7k"
+            },
+            {
+              "type": "710C4-11",
+              "thrust": "15.4k"
+            },
+            {
+              "type": "725A1-12",
+              "thrust": "16.9k"
+            },
+            {
+              "type": "710D5-21",
+              "thrust": "15.2k"
+            },
+            {
+              "type": "715A1-30",
+              "thrust": "18.7k"
+            },
+            {
+              "type": "715B1-30",
+              "thrust": "20.2k"
+            },
+            {
+              "type": "715C1-30",
+              "thrust": "21.4k"
+            }
+          ]
+        },
+        {
+          "model": "Tay",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "611-8",
+              "thrust": "13.9k"
+            },
+            {
+              "type": "620-15",
+              "thrust": "13.9k"
+            },
+            {
+              "type": "650-15",
+              "thrust": "15.1k"
+            },
+            {
+              "type": "651-54",
+              "thrust": "15.4k"
+            },
+            {
+              "type": "611-8C",
+              "thrust": "13.9k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "PJ",
+      "name": "PowerJet",
+      "models": [
+        {
+          "model": "SaM146",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-1S17/1S17C",
+              "thrust": "17.3k"
+            },
+            {
+              "type": "-1S18/1S18C",
+              "thrust": "17.8k"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "oem": "WI",
+      "name": "Williams International",
+      "models": [
+        {
+          "model": "FJ33",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-5A",
+              "thrust": "1.8k"
+            }
+          ]
+        },
+        {
+          "model": "FJ44",
+          "pricing": {
+            "minServiceable": 150000,
+            "minUnserviceable": 150000,
+            "minDailyLeaseRate": 150
+          },
+          "types": [
+            {
+              "type": "-1A",
+              "thrust": "1.9k"
+            },
+            {
+              "type": "-1AP",
+              "thrust": "1.96k"
+            },
+            {
+              "type": "-2A",
+              "thrust": "2.3k"
+            },
+            {
+              "type": "-2C",
+              "thrust": "2.4k"
+            },
+            {
+              "type": "-3A",
+              "thrust": "2.8k"
+            },
+            {
+              "type": "-3A-24",
+              "thrust": "2.5k"
+            },
+            {
+              "type": "-3AP",
+              "thrust": "3k"
+            },
+            {
+              "type": "-4A",
+              "thrust": "3.6k"
+            },
+            {
+              "type": "-4A-32",
+              "thrust": "3.2k"
+            },
+            {
+              "type": "-4A-QPM",
+              "thrust": "3.6k"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
