@@ -1,0 +1,6 @@
+<ng-container *ngIf="elementTable">
+    <p class="title-oem">{{ elementTable.name }} ({{ elementTable.oem }})</p>
+    <ul>
+        <li *ngFor="let element of elementTable.models">{{ element.model }}</li>
+    </ul>
+</ng-container>

@@ -1,0 +1,17 @@
+<h1 class="title">Engines</h1>
+<div class="block-trigger">
+    <a routerLink="">Link to 'Main page'</a>
+    <p class="text">Grid table use: <u>{{ gridTitle }}</u></p>
+    <button [ngClass]="flexBoxGrid ? 'button button-flex' : 'button button-css-grid'" (click)="triggerGrid()">Trigger Grid Table</button>
+</div>
+<section *ngIf="flexBoxGrid" class="table-flex-box">
+    <ng-container *ngFor="let item of dataSources$ | async">
+        <app-item-table [elementTable]="item"></app-item-table>
+    </ng-container>
+</section>
+
+<section *ngIf="!flexBoxGrid" class="table-css-grid">
+    <ng-container *ngFor="let item of dataSources$ | async">
+        <app-item-table [elementTable]="item"></app-item-table>
+    </ng-container>
+</section>

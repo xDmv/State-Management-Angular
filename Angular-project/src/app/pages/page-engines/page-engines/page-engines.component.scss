@@ -1,0 +1,77 @@
+.title {
+  font-size: 24px;
+  line-height: 1.2;
+  color: #000;
+}
+
+.block-trigger {
+  .text {
+    font-size: 18px;
+    line-height: 1.2;
+    color: #000;
+  }
+
+  .button {
+    font-size: 16px;
+    line-height: 1.2;
+    cursor: pointer;
+    color: #ffffff;
+    border: 0;
+    padding: 5px 15px;
+    border-radius: 5px;
+  }
+
+  .button-flex {
+    background: #006400;
+  }
+
+  .button-css-grid {
+    background: dodgerblue;
+  }
+
+  .button-flex:hover,
+  .button-css-grid:hover {
+    filter: contrast(0.75) invert(1);
+  }
+}
+
+.table-css-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.table-flex-box {
+  display: flex;
+  flex-wrap: wrap;
+
+  app-item-table {
+    width: 25%;
+  }
+}
+
+@media (max-width: 480px) {
+  .table-css-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .table-flex-box {
+    display: block;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 1024px) {
+  .table-css-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .table-flex-box {
+    display: flex;
+    flex-wrap: wrap;
+
+    app-item-table {
+      //flex: 1 0 45%;
+      //margin: 5px;
+      width: 50%;
+    }
+  }
+}
